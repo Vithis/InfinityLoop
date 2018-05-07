@@ -1,0 +1,14 @@
+c:\users\vilius\documents\visual studio 2015\Projects\InfinityLoop\InfinityLoop\bin\Debug\InfinityLoop.exe.config
+c:\users\vilius\documents\visual studio 2015\Projects\InfinityLoop\InfinityLoop\bin\Debug\InfinityLoop.exe
+c:\users\vilius\documents\visual studio 2015\Projects\InfinityLoop\InfinityLoop\bin\Debug\InfinityLoop.pdb
+c:\users\vilius\documents\visual studio 2015\Projects\InfinityLoop\InfinityLoop\obj\Debug\InfinityLoop.csprojResolveAssemblyReference.cache
+c:\users\vilius\documents\visual studio 2015\Projects\InfinityLoop\InfinityLoop\obj\Debug\InfinityLoop.Form1.resources
+c:\users\vilius\documents\visual studio 2015\Projects\InfinityLoop\InfinityLoop\obj\Debug\InfinityLoop.Properties.Resources.resources
+c:\users\vilius\documents\visual studio 2015\Projects\InfinityLoop\InfinityLoop\obj\Debug\InfinityLoop.csproj.GenerateResource.Cache
+c:\users\vilius\documents\visual studio 2015\Projects\InfinityLoop\InfinityLoop\obj\Debug\InfinityLoop.exe
+c:\users\vilius\documents\visual studio 2015\Projects\InfinityLoop\InfinityLoop\obj\Debug\InfinityLoop.pdb
+c:\users\vilius\documents\visual studio 2015\Projects\InfinityLoop\InfinityLoop\obj\Debug\InfinityLoop.loopgame.resources
+C:\Users\Vilius\documents\visual studio 2015\Projects\InfinityLoop\InfinityLoop\bin\Debug\InfinityLoop.exe.manifest
+C:\Users\Vilius\documents\visual studio 2015\Projects\InfinityLoop\InfinityLoop\bin\Debug\InfinityLoop.application
+C:\Users\Vilius\documents\visual studio 2015\Projects\InfinityLoop\InfinityLoop\obj\Debug\InfinityLoop.exe.manifest
+C:\Users\Vilius\documents\visual studio 2015\Projects\InfinityLoop\InfinityLoop\obj\Debug\InfinityLoop.application
